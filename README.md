@@ -4,7 +4,7 @@
 *   **Class:** 25C09
 
 # Selected model: 
-* **Name of model:** `Falconsai/text_summarize`
+* **Name of model:** `Falconsai/text_summarization`
 * **Task:** Text Summarization
 * **Hugging Face Page:** [https://huggingface.co/Falconsai/text_summarization]
 
@@ -139,3 +139,4 @@ curl -X GET "[http://127.0.0.1:8000/health](http://127.0.0.1:8000/health)"
 ```
 
 # Demonstration Video
+**Link video:** [https://youtu.be/1HoHfezLkWs]
